@@ -1,0 +1,3 @@
+panel,loci,loci_all_regions,rare_loci,private_alt_fraction,mean_frequency_variance,balanced_loci_min,balanced_loci_max
+call95,92689,92689,59496,0.363689326673068,0.0006233247033691534,92689,92689
+complete,5118,5118,1031,0.12231340367330988,0.001394178949397211,5118,5118

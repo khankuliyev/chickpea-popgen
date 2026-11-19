@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+/data/
+*.xlsx
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.vcf.gz.csi
+stage1_frequencies.csv.gz
+stage6_sites.csv
+задача 6.pdf
